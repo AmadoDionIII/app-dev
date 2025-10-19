@@ -2,7 +2,7 @@
 My first repository
 
 **Sonic the Hedgehog**
-#Genre : Action,Comedy,Adventure,Fantasy, and Sci-Fiction
+# Genre : Action,Comedy,Adventure,Fantasy, and Sci-Fiction
 
 ![alt text](![soniccc](https://github.com/user-attachments/assets/473b9394-a9a7-495b-8996-de7f2728774d)
 
